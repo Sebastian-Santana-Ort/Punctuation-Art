@@ -14,7 +14,8 @@ I really enjoyed both of these projects and simply set out to see if I could rep
 
 This repository contains:
 - the conda environment I used while working on this project,
-- HTML files containing example posters for Emma (Jane Austen) and the Apology (Plato)
+- HTML files containing example posters for Emma (Jane Austen) and the Apology (Plato), 
+- A png of the Apology poster for demonstration purposes,
 - A Jupyter notebook containing the code I used to create the posters,
 - The corpora folder contains copies of the texts I scraped from the Gutenberg website,
 - The images folder contains the image I used as a backdrop for the poster.
